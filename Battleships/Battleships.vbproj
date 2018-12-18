@@ -179,5 +179,10 @@
   <ItemGroup>
     <None Include="Resources\battleship 2.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Flame.gif" />
+    <Content Include="Resources\GameOver.png" />
+    <Content Include="Resources\Winner.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
