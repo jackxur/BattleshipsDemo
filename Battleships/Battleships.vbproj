@@ -80,6 +80,12 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmGamePage.Designer.vb">
+      <DependentUpon>frmGamePage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGamePage.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -95,13 +101,28 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="OpponentsPage.Designer.vb">
+      <DependentUpon>OpponentsPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OpponentsPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGamePage.resx">
+      <DependentUpon>frmGamePage.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OpponentsPage.resx">
+      <DependentUpon>OpponentsPage.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -115,6 +136,48 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1634472-bigthumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thumb-1920-98673.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BattleshipBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BattleshipBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BattleshipsBackground3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BattleShipBackgroun4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BattleShipBackground5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Battleship-target-4-small300-2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smallship.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smallship 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\destroyer 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\submarine 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AircraftCarrier 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\battleship 2.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

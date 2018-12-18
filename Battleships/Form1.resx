@@ -117,47 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="1634472-bigthumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1634472-bigthumbnail.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="thumb-1920-98673" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\thumb-1920-98673.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BattleshipBackground1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BattleshipBackground.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BattleShipBackground5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BattleShipBackground5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BattleshipBackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BattleshipBackground.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Battleship-target-4-small300-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Battleship-target-4-small300-2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BattleShipBackgroun4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BattleShipBackgroun4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BattleshipsBackground3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BattleshipsBackground3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="smallship" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\smallship.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="smallship 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\smallship 2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="destroyer 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\destroyer 2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="submarine 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\submarine 2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AircraftCarrier 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\AircraftCarrier 2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="battleship 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\battleship 2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
